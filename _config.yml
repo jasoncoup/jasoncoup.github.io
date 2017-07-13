@@ -3,7 +3,7 @@ description: Hi, I'm Jason.  I use this site to collect my thoughts on marketing
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
